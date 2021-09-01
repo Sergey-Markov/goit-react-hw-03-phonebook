@@ -15,7 +15,7 @@
     "shortid": "^2.2.16",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://Sergey-Markov.github.io/task-03-react",
+  "homepage": "https://Sergey-Markov.github.io/goit-react-hw-03-phonebook",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
